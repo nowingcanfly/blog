@@ -2,7 +2,7 @@
 ====
 
 **<p align="center">所谓月光如华，奢夜如拥，总归是想有个碎碎念的地方而已</p>**
-[![](https://github.com/nowingcanfly/blog/blob/main/img/depositphotos_228519556-stock-photo-top-view-new-york-city.jpg)](https://blog.nowingcanfly.com)
+<p align="center">[![](https://github.com/nowingcanfly/blog/blob/main/img/depositphotos_228519556-stock-photo-top-view-new-york-city.jpg)]</p>(https://blog.nowingcanfly.com)
 
 <!-- ## 联系方式
 - Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
