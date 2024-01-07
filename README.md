@@ -12,4 +12,5 @@
 - RSS：[RSS Feed](https://raw.githubusercontent.com/nowingcanfly/blog/master/feed.xml) -->
 
 ## 最近更新
+- [繁花如镜，印见繁华](https://github.com/nowingcanfly/blog/issues/2)--2024-01-07
 - [测试](https://github.com/nowingcanfly/blog/issues/1)--2024-01-03
