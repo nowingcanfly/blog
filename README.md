@@ -12,6 +12,7 @@
 - RSS：[RSS Feed](https://raw.githubusercontent.com/nowingcanfly/blog/master/feed.xml) -->
 
 ## 最近更新
+- [从养号到大号商，再到数字遗产](https://github.com/nowingcanfly/blog/issues/5)--2024-01-25
 - [24年的AI爆发](https://github.com/nowingcanfly/blog/issues/4)--2024-01-09
 - [一年的时间，GPT真的让很多事情不同了](https://github.com/nowingcanfly/blog/issues/3)--2024-01-09
 - [繁花如镜，印见繁华](https://github.com/nowingcanfly/blog/issues/2)--2024-01-07
